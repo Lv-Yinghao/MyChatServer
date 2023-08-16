@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/lv/linux/chat/src/server/chatserver.cpp",
+  "file": "/home/lv/linux/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/lv/linux/chat/src/server/chatservice.cpp",
+  "file": "/home/lv/linux/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/friendmodel.cpp.o -c /home/lv/linux/chat/src/server/friendmodel.cpp",
+  "file": "/home/lv/linux/chat/src/server/friendmodel.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/groupmodel.cpp.o -c /home/lv/linux/chat/src/server/groupmodel.cpp",
+  "file": "/home/lv/linux/chat/src/server/groupmodel.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/lv/linux/chat/src/server/main.cpp",
+  "file": "/home/lv/linux/chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.o -c /home/lv/linux/chat/src/server/offlinemessagemodel.cpp",
+  "file": "/home/lv/linux/chat/src/server/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/userModel.cpp.o -c /home/lv/linux/chat/src/server/userModel.cpp",
+  "file": "/home/lv/linux/chat/src/server/userModel.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/lv/linux/chat/src/server/db/db.cpp",
+  "file": "/home/lv/linux/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/lv/linux/chat/src/server/redis/redis.cpp",
+  "file": "/home/lv/linux/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/lv/linux/chat/build/src/client",
+  "command": "/usr/bin/g++   -I/home/lv/linux/chat/include -I/home/lv/linux/chat/include/server/db -I/home/lv/linux/chat/include/server/redis -I/home/lv/linux/chat/include/server -I/home/lv/linux/chat/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/lv/linux/chat/src/client/main.cpp",
+  "file": "/home/lv/linux/chat/src/client/main.cpp"
+}
+]
